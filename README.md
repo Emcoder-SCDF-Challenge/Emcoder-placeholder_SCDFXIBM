@@ -27,44 +27,44 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 ### The idea
 
-<short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing>
+< short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing >
 
-<possible picture of how everything works, LTA API to server to pop-up on watchroom monitor?>
+< possible picture of how everything works, LTA API to server to pop-up on watchroom monitor? >
 
 ## Our Pitch
 
-<pitch video>
+< pitch video >
   
 ## The Architecture
 
-<photo of architecture>
+< photo of architecture >
 
 1.
 2.
 3. 
 
-<list explaining it>
+< list explaining it >
   
 ## Technical Details
 
-<insert hyperlink to detailed solution>
+< insert hyperlink to detailed solution >
   
 ## Project Roadmap / Proposed Timeline (OPTIONAL)
   
 ## Libraries Used (OPTIONAL)
 
-<list libraries>
-<include IBM stuff>
+< list libraries >
+< include IBM stuff >
 
 * [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md) - CNN used for vehicle detection
 
 ## Installation and Setup Guide
 
-<blah blah blah>
+< blah blah blah >
   
 ### Installing sth
 
-<blah blah blah>
+< blah blah blah >
   
 ## Running tests (OPTIONAL)
 < Explanation and breakdown on how to run tests for the proposed solution >
