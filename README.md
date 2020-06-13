@@ -33,6 +33,10 @@ To provide quicker access to emergency medical services, an increase in resource
 
 < possible picture of how everything works, LTA API to server to pop-up on watchroom monitor? >
 
+<p align = "center">
+    <img src="readme_src/intro.png" alt="Example of detected crash in a Physics simulator" height="=500" width="500">
+</p>
+
 ## Our Pitch
 
 < pitch video >
