@@ -15,7 +15,7 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [The Architecture](#the-architecture)
 1. [Technical Details](#technical-details)
 1. [Project Roadmap / Proposed Timeline (OPTIONAL)](#project-roadmap-/-proposed-timeline-(optional))
-1. [Libraries Used (OPTIONAL)](#Libraries Used (OPTIONAL))
+1. [Libraries Used (OPTIONAL)](#libraries-used-(optional))
 1. [Installation and Setup Guide](#installation-and-setup-guide)
 1. [Running Tests](#running-tests)
 1. [Live Demonstrations](#live-demonstrations)
