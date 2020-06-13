@@ -1,9 +1,9 @@
 # Emcoder-placeholder_SCDFXIBM
-**A rag-tag bunch brought together by the desire to make a difference with some ideas and code**
+**A rag-tag bunch of misfits brought together by the desire to make a difference with some ideas and code**
 
 This project uses Artificial Intelligence and Machine Learning to detect road traffic accidents through closed-circuit television (CCTV) feeds.
 
-Submitted in SCDF X IBM - Lifesavers' Innovation Challenge: Call For Code 2020.
+Submitted to SCDF X IBM - Lifesavers' Innovation Challenge: Call For Code 2020.
 
 Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
@@ -23,11 +23,13 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 ## The problem
 
-### How can technology help?
+According to the World Health Organisation[<sup>1</sup>](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries), delays in detecting and providing care for those involved in a road traffic accident increases the severity of injuries. Care of injuries after an accident has occurred is extremely time-sensitive: with delays of minutes making the difference between life and death. The World Health Organisation also recommends quicker access to prehospital care as a possible solution, and we have devised a two-pronged approach to improving access to emergency medical services for people who have just been in a road traffic accident
 
 ### The idea
 
-< short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing >
+To provide quicker access to emergency medical services, an increase in resources during times of high demand and 
+
+### How can technology help?
 
 < possible picture of how everything works, LTA API to server to pop-up on watchroom monitor? >
 
