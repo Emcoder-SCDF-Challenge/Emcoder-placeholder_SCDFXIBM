@@ -14,7 +14,7 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [The problem](#the-problem)
 1. [Our Pitch](#our-pitch)
 1. [The Architecture](#the-architecture)
-1. [Technical Details](#technical-details)
+1. [Long Description](#long-description)
 1. [Project Roadmap / Proposed Timeline (OPTIONAL)](#project-roadmap-/-proposed-timeline-(optional))
 1. [Libraries Used (OPTIONAL)](#libraries-used-(optional))
 1. [Installation and Setup Guide](#installation-and-setup-guide)
@@ -40,7 +40,7 @@ We are proposing a system to decide when and where early intervention measures c
 
 ### How can technology help?
 
-< possible picture of how everything works, LTA API to server to pop-up on watchroom monitor? >
+By using live data of road conditions and CCTV footage, we can create a live heatmap of potential hotspots for accidents and automatically detect accidents with a high degree of certainty. These information will be sent to SCDF through our CEASE alert notification, allowing for better allocation of resources and quicker access to prehospital care for those in need.
 
 <p align = "center">
     <img src="readme_src/intro.png" alt="Communication of accident detection server with web-based devices in SCDF Ops Center over the cloud" height="=500" width="500">
@@ -60,7 +60,7 @@ We are proposing a system to decide when and where early intervention measures c
 
 < list explaining it >
   
-## Technical Details
+## Long Description
 
 < insert hyperlink to detailed solution >
   
