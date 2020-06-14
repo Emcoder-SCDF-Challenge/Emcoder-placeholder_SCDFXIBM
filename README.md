@@ -17,7 +17,7 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [Long Description](#long-description)
 1. [Installation and Setup Guide](#installation-and-setup-guide)
 1. [Running Tests](#running-tests)
-1. [Libraries Used]
+1. [Libraries Used](#libraries-used)
 
 ## The problem
 
@@ -72,10 +72,10 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 
 < blah blah blah >
   
-## Running tests (OPTIONAL)
+## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
 
-## Libraries Used (OPTIONAL)
+## Libraries Used
 
 * [IBM Watson](https://www.ibm.com/sg-en/watson)
 * IBM Cloud SDK Core Authenticators
