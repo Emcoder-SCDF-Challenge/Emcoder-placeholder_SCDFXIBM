@@ -15,11 +15,9 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [Our Pitch](#our-pitch)
 1. [The Architecture](#the-architecture)
 1. [Long Description](#long-description)
-1. [Project Roadmap / Proposed Timeline (OPTIONAL)](#project-roadmap-/-proposed-timeline-(optional))
 1. [Installation and Setup Guide](#installation-and-setup-guide)
 1. [Running Tests](#running-tests)
-1. [Live Demonstrations](#live-demonstrations)
-1. [Libraries Used (OPTIONAL)](#libraries-used-(optional))
+1. [Libraries Used]
 
 ## The problem
 
@@ -65,8 +63,6 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 ## Long Description
 
 [More details are available here](DESCRIPTION.md)
-  
-## Project Roadmap / Proposed Timeline (OPTIONAL)
 
 ## Installation and Setup Guide
 
@@ -78,14 +74,8 @@ By using live data of road conditions and CCTV footage, we can create a live hea
   
 ## Running tests (OPTIONAL)
 < Explanation and breakdown on how to run tests for the proposed solution >
-  
-## Live Demonstration (OPTIONAL)
-< Link to an actual working demo/website >
 
 ## Libraries Used (OPTIONAL)
-
-< list libraries >
-< include IBM stuff >
 
 * [IBM Watson](https://www.ibm.com/sg-en/watson)
 * IBM Cloud SDK Core Authenticators
