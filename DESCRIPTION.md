@@ -19,15 +19,11 @@ For future implementation, we may include locations of accidents. By adding more
 We are proposing a two-pronged approach to tackle any possible unreported traffic accident which ended up costing lives. On top of that, we would like to use technology to our advantage in terms of planning. In the long run, we would like to take precautionary measures to help minimise the occurrence of accidents by alerting drivers in advance.
 
 ## Results
-
-### Data Analysis of Details of Past Accidents
-##Using Custom IBM Classifier to identify Cars
+## Using Custom IBM Classifier to identify Cars
 By keying in url of an image, we are able to generate the probability of it being an empty road or the presence of cars on the road.
 
+### Data Analysis of Details of Past Accidents
 
-<p align = "center">
-    <img src="readme_src/result1.png" alt="result1">
-</p>
 
 From the heatmap above, there is an obvious concentration of accidents during January. It could be the result of the festive season where there is a lot of alcohol consumption.
 
