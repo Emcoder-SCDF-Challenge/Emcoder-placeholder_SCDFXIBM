@@ -33,6 +33,7 @@ Singapore has made significant strides in ensuring our roads are safe even by in
 In response to the backdrop described, Team Emcoder, has created and conceptualise a system called CEASE (Comprehensive Early Action Sensing for Emergency). It is a system for SCDF to target early intervention measures in a two-pronged approach. Each prong aims to optimize the use of SCDF’s resources. 
 1. Comprehensive Hotspot Prediction
 1. Continuous Accident Monitoring
+
 Our system leverages sensors and data that has already been installed or collected along all of Singapore’s roads, such as the Land Transport Authority's API for live traffic conditions[<sup>2</sup>](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html)
 We are proposing a system to decide when and where early intervention measures can be placed that will be the most efficient use of our precious emergency resources. Although we are not preaching a method to bring road accidents down to 0, we see this as an optimization problem to target and concentrate SCDF’s resources to make the greatest impact.
 
