@@ -64,9 +64,7 @@ By using live data of road conditions and CCTV footage, we can create a live hea
   
 ## Long Description
 
-[More details are available here] 
-
-< add link >
+[More details are available here](DESCRIPTION.md)
   
 ## Project Roadmap / Proposed Timeline (OPTIONAL)
 
