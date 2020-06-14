@@ -88,11 +88,11 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 < include IBM stuff >
 
 * [IBM Watson](https://www.ibm.com/sg-en/watson)
-* [IBM Cloud SDK Core](https://github.com/IBM/python-sdk-core)
+* IBM Cloud SDK Core
 * [Numpy](https://github.com/numpy/numpy)
 * [Pandas](https://github.com/pandas-dev/pandas)
 * [Matplotlib](https://github.com/matplotlib/matplotlib)
 * [Seaborn](https://github.com/seaborn/seaborn)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Shutil](https://github.com/python/cpython/blob/master/Lib/shutil.py)
-* [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md) - CNN used for vehicle detection
+* [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md)
