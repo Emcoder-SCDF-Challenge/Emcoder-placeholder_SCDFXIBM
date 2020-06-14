@@ -58,8 +58,6 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 2. Tensorflow and Keras detect accidents within the frame if it was validated as a vehicle previously.
 3. Machine Learning and Data Analytics use past dataset of accidents to generate a heat map, indicating when accidents tend to happen.
 4. Important information is sent to SCDF using Node-RED API Calls.
-
-< list explaining it >
   
 ## Long Description
 
