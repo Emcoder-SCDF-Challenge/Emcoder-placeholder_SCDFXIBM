@@ -47,7 +47,7 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 
 ## Our Pitch
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/m0ekNzMjmHQ)](https://youtu.be/m0ekNzMjmHQ)
+[This is the link to our pitch!](https://youtu.be/m0ekNzMjmHQ)
   
 ## The Architecture
 
