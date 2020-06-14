@@ -8,7 +8,7 @@ Submitted to SCDF X IBM - Lifesavers' Innovation Challenge: Call For Code 2020.
 Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 <p align = "center">
-    <img src="readme_src/photo3.png" alt="photo3" height="=600" width="600">
+    <img src="readme_src/photo3.jpg" alt="photo3" height="=600" width="600">
 </p>
 
 ## Contents
