@@ -23,7 +23,7 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 Every day, dedicated officers of the Singapore Civil Defence Force work tirelessly to mitigate and respond to emergencies that spring up across the island. In 2019, about 10,400 emergency calls were directly related to road traffic accidents, averaging 29 calls a day for that year. Despite the 3.3% drop in fatalities on the road, incidents such as speeding, red-light running, and accidents involving elderly pedestrians and motorcyclists increase the risk of accidents and injury. Between 2018 and 2019, these incidents have been on the rise. 
 
-Singapore has made significant strides in ensuring our roads are safe even by international standards. However, the fact remains that each emergency call made for non-fatal road accidents draws precious emergency resources away from responding to calls for trauma emergencies especially with our ageing population. If we are able to hit null on the cases of road accidents, that will free up manpower and other resources in the SCDF for our volatile future.
+Singapore has made significant strides in ensuring our roads are safe even by international standards. However, the fact remains that each emergency call made for non-fatal road accidents draws precious emergency resources away from responding to calls for trauma emergencies especially with our ageing population. If we are able to hit null on the cases of road accidents, that will free up manpower and other resources in the SCDF for our future.
 
 
 ### The idea
