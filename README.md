@@ -65,11 +65,23 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 
 ## Installation and Setup Guide
 
-< blah blah blah >
-  
-### Installing sth
+### Things to install
 
-< blah blah blah >
+1. Jupyter notebook
+1. IBM code
+1. dataset
+
+### Installing IBM Watson and IBM Cloud
+
+pip install --upgrade "ibm-watson>=4.0.1"
+
+### Installing Python 3.6
+
+- Install Python from the [official website](https://www.python.org/downloads/).
+- During the installation, ensure that you check the box for installing pip alongside Python 3.6.
+- Ensure Python 3.6 has been added to your path by opening a new terminal and entering python `--version`. This should report your Python version as 3.6.x.
+- Run the following command in your terminal: `pip install --upgrade pip`
+- Verify `pip` install by typing: `pip --version`
   
 ## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
