@@ -54,9 +54,10 @@ By using live data of road conditions and CCTV footage, we can create a live hea
     <img src="readme_src/architecture.jpg" alt="Our architecture">
 </p>
 
-1.
-2.
-3. 
+1. IBM Watsons detects vehicles through still images from video footage from live CCTVs.
+2. Tensorflow and Keras detect accidents within the frame if it was validated as a vehicle previously.
+3. Machine Learning and Data Analytics use past dataset of accidents to generate a heat map, indicating when accidents tend to happen.
+4. Important information is sent to SCDF using Node-RED API Calls.
 
 < list explaining it >
   
