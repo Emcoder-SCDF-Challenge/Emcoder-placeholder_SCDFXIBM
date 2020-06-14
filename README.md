@@ -65,16 +65,6 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 
 ## Installation and Setup Guide
 
-### Things to install
-
-1. Jupyter notebook
-1. IBM code
-1. dataset
-
-### Installing IBM Watson and IBM Cloud
-
-pip install `--upgrade "ibm-watson>=4.0.1"`
-
 ### Installing Python 3.6
 
 - Install Python from the [official website](https://www.python.org/downloads/).
@@ -83,6 +73,10 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 - Run the following command in your terminal: `pip install --upgrade pip`
 - Verify `pip` install by typing: `pip --version`
 
+### Installing IBM Watson and IBM Cloud
+
+pip install `--upgrade "ibm-watson>=4.0.1"`
+
 ### Installing other dependencies
 
 - `pip install numpy`
@@ -90,8 +84,11 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 - `pip install tensorflow`
 - `pip install matplotlib`
 - `pip install seaborn`
-- `pip install --upgrade "ibm-watson>=4.0.1"`
   
+### Installing Jupyter
+
+You can find the installation documentation for the [Jupyter platform](https://jupyter.readthedocs.io/en/latest/install.html), on ReadTheDocs.
+
 ## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
 
