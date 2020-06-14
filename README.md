@@ -8,7 +8,7 @@ Submitted to SCDF X IBM - Lifesavers' Innovation Challenge: Call For Code 2020.
 Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 <p align = "center">
-    <img src="readme_src/photo3.png" alt="photo3" height="=600" width="600">
+    <img src="readme_src/photo3.jpg" alt="photo3" height="=600" width="600">
 </p>
 
 ## Contents
@@ -18,7 +18,6 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [The Architecture](#the-architecture)
 1. [Long Description](#long-description)
 1. [Installation and Setup Guide](#installation-and-setup-guide)
-1. [Running Tests](#running-tests)
 1. [Libraries Used](#libraries-used)
 
 ## The problem
@@ -90,9 +89,6 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 ### Installing Jupyter
 
 You can find the installation documentation for the [Jupyter platform](https://jupyter.readthedocs.io/en/latest/install.html), on ReadTheDocs.
-
-## Running tests
-< Explanation and breakdown on how to run tests for the proposed solution >
 
 ## Libraries Used
 
