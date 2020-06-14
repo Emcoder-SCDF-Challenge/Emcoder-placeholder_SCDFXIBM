@@ -53,7 +53,7 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 ## The Architecture
 
 <p align = "center">
-    <img src="readme_src/architecture.png" alt="Our architecture" height="=600" width="600">
+    <img src="readme_src/architecture2.png" alt="Our architecture" height="=600" width="600">
 </p>
 
 1.
