@@ -43,7 +43,7 @@ We are proposing a system to decide when and where early intervention measures c
 By using live data of road conditions and CCTV footage, we can create a live heatmap of potential hotspots for accidents and automatically detect accidents with a high degree of certainty. These information will be sent to SCDF through our CEASE alert notification, allowing for better allocation of resources and quicker access to prehospital care for those in need.
 
 <p align = "center">
-    <img src="readme_src/intro.png" alt="Communication of accident detection server with web-based devices in SCDF Ops Center over the cloud" height="=500" width="500">
+    <img src="readme_src/intro.png" alt="Communication of accident detection server with web-based devices in SCDF Ops Center over the cloud" height="=600" width="600">
 </p>
 
 ## Our Pitch
