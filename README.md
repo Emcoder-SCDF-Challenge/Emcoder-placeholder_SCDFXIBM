@@ -85,7 +85,10 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 
 ### Installing other dependencies
 
-- 
+- `pip install numpy`
+- `pip install pandas`
+- `pip install tensorflow`
+- `pip install matplotlib`
   
 ## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
@@ -99,5 +102,4 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 * [Matplotlib](https://github.com/matplotlib/matplotlib)
 * [Seaborn](https://github.com/seaborn/seaborn)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
-* [Shutil](https://github.com/python/cpython/blob/master/Lib/shutil.py)
 * [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md)
