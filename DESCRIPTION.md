@@ -22,6 +22,11 @@ We are proposing a two-pronged approach to tackle any possible unreported traffi
 ## Using Custom IBM Classifier to identify Cars
 By keying in url of an image, we are able to generate the probability of it being an empty road or the presence of cars on the road.
 
+# INSERT 1,2,3 (NO CAR, CAR, ACCIDENT) THANKS
+<p align = "center">
+    <img src="" alt="">
+</p>
+
 ### Data Analysis of Details of Past Accidents
 
 
