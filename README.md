@@ -89,6 +89,8 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 - `pip install pandas`
 - `pip install tensorflow`
 - `pip install matplotlib`
+- `pip install seaborn`
+- `pip install --upgrade "ibm-watson>=4.0.1"`
   
 ## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
