@@ -82,6 +82,10 @@ pip install `--upgrade "ibm-watson>=4.0.1"`
 - Ensure Python 3.6 has been added to your path by opening a new terminal and entering python `--version`. This should report your Python version as 3.6.x.
 - Run the following command in your terminal: `pip install --upgrade pip`
 - Verify `pip` install by typing: `pip --version`
+
+### Installing other dependencies
+
+- 
   
 ## Running tests
 < Explanation and breakdown on how to run tests for the proposed solution >
