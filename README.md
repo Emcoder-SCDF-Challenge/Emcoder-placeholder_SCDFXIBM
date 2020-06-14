@@ -88,7 +88,7 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 < include IBM stuff >
 
 * [IBM Watson](https://www.ibm.com/sg-en/watson)
-* IBM Cloud SDK Core
+* IBM Cloud SDK Core Authenticators
 * [Numpy](https://github.com/numpy/numpy)
 * [Pandas](https://github.com/pandas-dev/pandas)
 * [Matplotlib](https://github.com/matplotlib/matplotlib)
