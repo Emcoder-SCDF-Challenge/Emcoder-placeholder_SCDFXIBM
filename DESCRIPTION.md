@@ -16,3 +16,6 @@ For future implementation, we may include locations of accidents. By adding more
 
 ## Conclusion
 
+We are proposing a two-pronged approach to tackle any possible unreported traffic accident which ended up costing lives. On top of that, we would like to use technology to our advantage in terms of planning. In the long run, we would like to take precautionary measures to help minimise the occurrence of accidents by alerting drivers in advance.
+
+### Results
