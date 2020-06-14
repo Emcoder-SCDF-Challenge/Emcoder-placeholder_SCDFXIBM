@@ -16,10 +16,10 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 1. [The Architecture](#the-architecture)
 1. [Long Description](#long-description)
 1. [Project Roadmap / Proposed Timeline (OPTIONAL)](#project-roadmap-/-proposed-timeline-(optional))
-1. [Libraries Used (OPTIONAL)](#libraries-used-(optional))
 1. [Installation and Setup Guide](#installation-and-setup-guide)
 1. [Running Tests](#running-tests)
 1. [Live Demonstrations](#live-demonstrations)
+1. [Libraries Used (OPTIONAL)](#libraries-used-(optional))
 
 ## The problem
 
@@ -67,13 +67,6 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 [More details are available here](DESCRIPTION.md)
   
 ## Project Roadmap / Proposed Timeline (OPTIONAL)
-  
-## Libraries Used (OPTIONAL)
-
-< list libraries >
-< include IBM stuff >
-
-* [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md) - CNN used for vehicle detection
 
 ## Installation and Setup Guide
 
@@ -88,3 +81,18 @@ By using live data of road conditions and CCTV footage, we can create a live hea
   
 ## Live Demonstration (OPTIONAL)
 < Link to an actual working demo/website >
+
+## Libraries Used (OPTIONAL)
+
+< list libraries >
+< include IBM stuff >
+
+* [IBM Watson](https://www.ibm.com/sg-en/watson)
+* [IBM Cloud SDK Core](https://github.com/IBM/python-sdk-core)
+* [Numpy](https://github.com/numpy/numpy)
+* [Pandas](https://github.com/pandas-dev/pandas)
+* [Matplotlib](https://github.com/matplotlib/matplotlib)
+* [Seaborn](https://github.com/seaborn/seaborn)
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
+* [Shutil](https://github.com/python/cpython/blob/master/Lib/shutil.py)
+* [Keras RetinaNet](https://github.com/fizyr/keras-retinanet/blob/master/README.md) - CNN used for vehicle detection
