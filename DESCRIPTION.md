@@ -1,13 +1,13 @@
-# Long Description
+# CEASE in-depth
 
 ## The problem
-With SCDF's limited emergency medical resources, each emergency call made for non-fatal road accidents draws precious emergency resources away from trauma emergencies, with delays of minutes being the difference between life and death. As such, we are proposing a two-pronged approach to tackling this and improving access to emergency medical services for people who have just been in a road traffic accident.
+With SCDF's limited emergency medical resources, each emergency call made for non-fatal road accidents draws precious emergency resources away from trauma emergencies, with delays of minutes being the difference between life and death. Two issues in particular contribute to this problem:
 
-1. **<u>Accident detection system through live CCTV footage</u>**
-   - Using IBM Watson's visual recognition software, we can analyse still images from the CCTV footage to detect for traffic. If true, the image will then be analysed to see if an accident has occured. This information can then be relayed to SCDF Ops Center to allow for faster deployment of emergency medical services so as to
-   
-2. **<u>Live cross-referencing </u>**
-   - According to anecdotal evidence, it is common to see personnel suffering from heat fatigue and having to visit the hospital during training sessions, a lot due to the lack of effective management of personnel.
+1. **<u>Accidents occuring during times with low vehicle and foot traffic will have extended delays in access to emergency medical services due to the lack of reporting</u>**
+- 
+
+2. **<u>Resources are not optimised for peaks and troughs in demand for emergency medical services</u>**
+-
 
 
 ## Our Analysis:
