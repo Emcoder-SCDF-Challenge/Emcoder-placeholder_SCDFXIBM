@@ -23,18 +23,26 @@ Team members: Jaxsen Chew, Wong Ying, Hussain Khozema, Veric Tan, Jeremy Book
 
 ## The problem
 
-According to the World Health Organisation[<sup>1</sup>](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries), delays in detecting and providing care for those involved in a road traffic accident increases the severity of injuries. Care of injuries after an accident has occurred is extremely time-sensitive: with delays of minutes making the difference between life and death. The World Health Organisation also recommends quicker access to prehospital care as a possible solution, and we have devised a two-pronged approach to improving access to emergency medical services for people who have just been in a road traffic accident
+Every day, dedicated officers of the Singapore Civil Defence Force work tirelessly to mitigate and respond to emergencies that spring up across the island. In 2019, about 10,400 emergency calls were directly related to road traffic accidents, averaging 29 calls a day for that year. Despite the 3.3% drop in fatalities on the road, incidents such as speeding, red-light running, and accidents involving elderly pedestrians and motorcyclists increase the risk of accidents and injury. Between 2018 and 2019, these incidents have been on the rise. 
+
+Singapore has made significant strides in ensuring our roads are safe even by international standards. However, the fact remains that each emergency call made for non-fatal road accidents draws precious emergency resources away from responding to calls for trauma emergencies especially with our ageing population. If we are able to hit null on the cases of road accidents, that will free up manpower and other resources in the SCDF for our volatile future.
+
 
 ### The idea
 
-To provide quicker access to emergency medical services, an increase in resources during times of high demand and 
+In response to the backdrop described, Team Emcoder, has created and conceptualise a system called CEASE (Comprehensive Early Action Sensing for Emergency). It is a system for SCDF to target early intervention measures in a two-pronged approach. Each prong aims to optimize the use of SCDF’s resources. 
+1. Comprehensive Hotspot Prediction
+1. Continuous Accident Monitoring
+Our system leverages sensors and data that has already been installed or collected along all of Singapore’s roads, such as the Land Transport Authority's API for live traffic conditions[<sup>2</sup>](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html)
+We are proposing a system to decide when and where early intervention measures can be placed that will be the most efficient use of our precious emergency resources. Although we are not preaching a method to bring road accidents down to 0, we see this as an optimization problem to target and concentrate SCDF’s resources to make the greatest impact.
+
 
 ### How can technology help?
 
 < possible picture of how everything works, LTA API to server to pop-up on watchroom monitor? >
 
 <p align = "center">
-    <img src="readme_src/intro.png" alt="Example of detected crash in a Physics simulator" height="=500" width="500">
+    <img src="readme_src/intro.png" alt="Communication of accident detection server with web-based devices in SCDF Ops Center over the cloud" height="=500" width="500">
 </p>
 
 ## Our Pitch
