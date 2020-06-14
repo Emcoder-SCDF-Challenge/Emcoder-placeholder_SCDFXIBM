@@ -1,19 +1,18 @@
-# CEASE in-depth
+# CEASE Alert Notification
 
-## The problem
-With SCDF's limited emergency medical resources, each emergency call made for non-fatal road accidents draws precious emergency resources away from trauma emergencies, with delays of minutes being the difference between life and death. Two issues in particular contribute to this problem:
+CEASE Alert Notification aims to leverage on smart infrastructures to allow SCDF to deploy help immediately to accident sites with little to no time delay. We hope to leverage a network of smart infrastructure to respond to emergency timely, saving lifes. Additionally, we would like to take precautionary measures by analysing available dataset to narrow down frequent timing of accidents happening. This valuable information can be used to better allocate manpower, ensuring the availability of resources when needed.
 
-1. **<u>Accidents occuring during times with low vehicle and foot traffic will have extended delays in access to emergency medical services due to the lack of reporting</u>**
-- 
+## Accident detection system through live CCTV footage
 
-2. **<u>Resources are not optimised for peaks and troughs in demand for emergency medical services</u>**
--
+Using IBM Watson's visual recognition software, we can analyse still images from the CCTV footage to detect for traffic. If true, the image will then be analysed to see if an accident has occurred. This information can then be relayed to SCDF Ops Center to allow for faster deployment of emergency medical services.
 
+## Data Analysis of Details of Past Accidents
 
-## Our Analysis:
+Using Machine Learning and Data Analysis, we can create heatmap to show concentration of accidents happening throughout the day, throughout the month, as well as throughout the year. This may allow SCDF to better roster their shift works and even helps with the allocation of leaves throughout the year.
 
-We propose the usage of IoT to tackle the 3 problems highlighted above.
+### Future Implementation
 
-**OUR SOLUTION:**
+For future implementation, we may include locations of accidents. By adding more variables, it can further narrow down the scope. Additionally, we may connect it to live NEA information, such as the weather, and GPS application of drivers, to alert them when they are driving in accident-favourable situations, for them to drive even more cautiously. 
 
-We propose that the rotation system needs to be better automated to reduce human error of tracking and recording timing of firefighters, and to provide a more accurate judgement of the conditions of the personnel. 
+## Conclusion
+
