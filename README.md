@@ -73,7 +73,7 @@ By using live data of road conditions and CCTV footage, we can create a live hea
 
 ### Installing IBM Watson and IBM Cloud
 
-pip install --upgrade "ibm-watson>=4.0.1"
+pip install `--upgrade "ibm-watson>=4.0.1"`
 
 ### Installing Python 3.6
 
