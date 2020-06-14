@@ -1,4 +1,4 @@
-# Emcoder-placeholder_SCDFXIBM
+# Emcoder-CEASE_SCDFXIBM
 **A rag-tag bunch of misfits brought together by the desire to make a difference with some ideas and code**
 
 This project uses Artificial Intelligence and Machine Learning to improve allocation of resources and access to prehospital care for those in need.
